@@ -1,1 +1,1 @@
-# Telerik-2016
+# Telerik - 2016
