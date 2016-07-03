@@ -1,0 +1,20 @@
+input[type="button"]
+{
+  width: 70px;
+  height: 70px;
+  background-color: #F4FAFB;
+}
+*{font-size: 30px;
+}
+#zero{
+  width: 142px;
+  height: 70px;
+}
+table{border-color: blue;
+
+}
+textarea{
+  width: 280px;
+  height: 70px;
+  font-size: 24px;
+}
