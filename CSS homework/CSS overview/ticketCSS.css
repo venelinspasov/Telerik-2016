@@ -3,8 +3,8 @@ table,th,tr,td {
 }
 .dot {
 	background: green;
-	width: 9px;
-	height: 9px;
+	width: 8px;
+	height: 8px;
 	border-radius: 50%;
 }
 
