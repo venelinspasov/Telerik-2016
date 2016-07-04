@@ -3,14 +3,14 @@ table,th,tr,td {
 }
 .dot {
 	background: green;
-	width: 10px;
-	height: 10px;
+	width: 9px;
+	height: 9px;
 	border-radius: 50%;
 }
 
 table{
 	background-color: #595959;
-	height: 100px;
+	height: 150px;
 }
 th{
 	color: #A3B4A8;
